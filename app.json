@@ -1,0 +1,12 @@
+{
+  "name": "ShareApp1",
+  "displayName": "ShareApp1",
+  "expo": {
+    "name": "ShareApp1",
+    "slug": "ShareApp1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
